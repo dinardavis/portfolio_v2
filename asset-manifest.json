@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/portfoli_v2/static/js/main.3c48fbe5.js",
+    "static/js/787.9dc234aa.chunk.js": "/portfoli_v2/static/js/787.9dc234aa.chunk.js",
+    "static/media/dinardavis.pdf": "/portfoli_v2/static/media/dinardavis.0e84ffebc464d79cad80.pdf",
+    "index.html": "/portfoli_v2/index.html",
+    "main.3c48fbe5.js.map": "/portfoli_v2/static/js/main.3c48fbe5.js.map",
+    "787.9dc234aa.chunk.js.map": "/portfoli_v2/static/js/787.9dc234aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.3c48fbe5.js"
+  ]
+}
